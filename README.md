@@ -1,4 +1,4 @@
-### Roles
+# Roles
 
 ## Representative
 People from outside who want
@@ -11,7 +11,7 @@ funding are involved, a
 representative will certainly be
 useful.
 
-# Reponsibilities
+### Reponsibilities
 - being the contact person for
 people/organizations who
 want to get in touch with DfG
