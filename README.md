@@ -1,13 +1,13 @@
 # "Roles"
 
 ## Project "Leads"
-Directly follows from the structure of, e.g., Data for Democracy. 
+
+Each project we do needs a scrum-style go-to-person. It is what, e.g., Data for Democracy are doing.
 This role changes from project to project and will be at the core
 of DfG.
 
 ### Responsibilities
 
- - be the scrum-style go-to-person for a given project
  - keep the group on track
  - take questions
  - help new folks joining a project get settled in 
