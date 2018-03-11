@@ -1,6 +1,18 @@
 # "Roles"
 
-## Representative
+## Project "Leader"
+Directly follows from the structure of, e.g., Data for Democracy. 
+This role changes from project to project and will be at the core
+of DfG.
+
+### Responsibilities
+
+ - be the scrum-style go-to-person for a given project
+ - keep the group on track
+ - take questions
+ - help new folks joining a project get settled in 
+
+## Representative(s)
 
 People from outside who want
 to get in touch will need to be
@@ -10,18 +22,18 @@ them what we do etc. Especially, in
 the long term, if things like
 funding are involved, a
 representative will certainly be
-useful. For obvious reasons, a 
-*native Norwegian speaker* would be 
+useful. For obvious reasons,  
+*native Norwegian speakers* would be 
 a suitable choice.
 
 ### Reponsibilities
 - being the contact person for
 people/organizations who
 want to get in touch with DfG
-- advertise what we do 
+- advertise what we do face-to-face
 -...
 
-## Moderator 
+## Moderator(s) 
 
 In meetings, it is important that
 communication is efficient in
@@ -49,14 +61,15 @@ to important things
 
 ## Homepage/Social Media People
 
-To have a coherent and up to
+Ensure that we have a coherent and up to
 date online representation of
 what we do and what is going
-on
+on.
 
 ### Responsibilities
 
 - work on homepage
+- take care of social media accounts
 - incorporate content projects
 create (maybe this could also
 be delegated to the people who
