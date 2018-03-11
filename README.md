@@ -11,7 +11,7 @@ the long term, if things like
 funding are involved, a
 representative will certainly be
 useful. For obvious reasons, a 
-native Norwegian speaker would be 
+*native Norwegian speaker* would be 
 a suitable choice.
 
 ### Reponsibilities
