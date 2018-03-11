@@ -1,6 +1,6 @@
 # "Roles"
 
-## Project "Leader"
+## Project "Leads"
 Directly follows from the structure of, e.g., Data for Democracy. 
 This role changes from project to project and will be at the core
 of DfG.
