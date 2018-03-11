@@ -1,4 +1,4 @@
-# Roles
+# "Roles"
 
 ## Representative
 
@@ -47,7 +47,7 @@ who were not at the meeting
 are still up to date with regards
 to important things
 
-## Homepage/social media people
+## Homepage/Social Media People
 
 To have a coherent and up to
 date online representation of
