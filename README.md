@@ -10,7 +10,9 @@ them what we do etc. Especially, in
 the long term, if things like
 funding are involved, a
 representative will certainly be
-useful.
+useful. For obvious reasons, a 
+native Norwegian speaker would be 
+a suitable choice.
 
 ### Reponsibilities
 - being the contact person for
