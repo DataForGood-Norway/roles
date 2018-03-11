@@ -22,9 +22,7 @@ them what we do etc. Especially, in
 the long term, if things like
 funding are involved, a
 representative will certainly be
-useful. For obvious reasons,  
-*native Norwegian speakers* would be 
-a suitable choice.
+useful. For obvious reasons, *native Norwegian speakers* would be a suitable choice.
 
 ### Reponsibilities
 - being the contact person for
