@@ -1,5 +1,7 @@
 # "Roles"
 
+We have defined a few "roles" that are supposed to solve a few common tasks, thereby empowering our community to focus on actual development work and problem solving. If you feel, that something is missing, create an issue within this repo or post in our [#organization channel in Slack](https://data4good-no.slack.com/messages/C9MUKBM7D)
+
 ## Project "Leads"
 
 Each project we do needs a scrum-style go-to-person. It is what, e.g., Data for Democracy are doing.
