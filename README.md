@@ -6,7 +6,7 @@
    * [Responsibilities](#Responsibilities-1)
 * [Homepage/Social Media People](#homepagesocial-media-people)
    * [Responsibilities](#responsibilities-1)
-
+* [Mentors](#mentors)
 
 # "Roles"
 
