@@ -14,6 +14,7 @@ of DfG.
  - take questions
  - help new folks joining a project get settled in 
 
+
 ## Representative(s)
 
 People from outside who want
@@ -32,6 +33,9 @@ people/organizations who
 want to get in touch with DfG
 - advertise what we do face-to-face
 -...
+
+Contact @Kleng_Bråtveit in Slack if you want to contribute as ambassador for DataForGood.
+
 
 ## Moderator(s) 
 
@@ -75,3 +79,5 @@ create (maybe this could also
 be delegated to the people who
 mainly work on these projects)
 - ...
+
+Contact @Peter_Malec in Slack if you want to help preparing our meetings and on our online communication channels.
