@@ -1,6 +1,6 @@
 # "Roles"
 
-We have defined a few "roles" that are supposed to solve a few common tasks, thereby empowering our community to focus on actual development work and problem solving. If you feel, that something is missing, create an issue within this repo or post in our [#organization channel in Slack](https://data4good-no.slack.com/messages/C9MUKBM7D)
+We have defined a few "roles" that are supposed to solve a few common tasks, thereby empowering our community to focus on actual development work and problem solving. If you feel, that something is missing, create an issue within this repo or post in our [#organization channel in Slack](https://dataforgood-norway.slack.com/messages/C9RRH3D1T)
 
 ## Project "Leads"
 
@@ -34,7 +34,7 @@ want to get in touch with DfG
 - advertise what we do face-to-face
 -...
 
-Contact @Kleng_Bråtveit in Slack if you want to contribute as ambassador for DataForGood.
+Contact [@Kleng_Bråtveit](https://dataforgood-norway.slack.com/messages/C9RRH3D1T/?) in Slack if you want to contribute as ambassador for DataForGood.
 
 
 ## Moderator(s) 
@@ -80,4 +80,4 @@ be delegated to the people who
 mainly work on these projects)
 - ...
 
-Contact @Peter_Malec in Slack if you want to help preparing our meetings and on our online communication channels.
+Contact [@Peter_Malec](https://dataforgood-norway.slack.com/messages/C9RRH3D1T/) in Slack if you want to help preparing our meetings and on our online communication channels.
