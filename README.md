@@ -80,4 +80,4 @@ be delegated to the people who
 mainly work on these projects)
 - ...
 
-Contact [@Peter_Malec](https://dataforgood-norway.slack.com/messages/C9RRH3D1T/) in Slack if you want to help preparing our meetings and on our online communication channels.
+Contact [@AlizaminJ](https://dataforgood-norway.slack.com/messages/DAUD06B5G/) in Slack if you want to help preparing our meetings and on our online communication channels.
